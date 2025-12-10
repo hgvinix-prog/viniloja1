@@ -1,0 +1,42 @@
+[
+  {
+    "id": "iphone-14-pro",
+    "category": "iPhone",
+    "name": "iPhone 14 Pro",
+    "price": 7499,
+    "status": "available",
+    "plan": "12x sem juros",
+    "banner": "https://raw.githubusercontent.com/SEU_USUARIO/REPO/main/imgs/iphone14.png",
+    "buy_link": "https://meusite.com/checkout?produto=iphone-14-pro"
+  },
+  {
+    "id": "ipadair",
+    "category": "iPad",
+    "name": "iPad Air",
+    "price": 4999,
+    "status": "soldout",
+    "plan": "Parcelado 10x",
+    "banner": "https://raw.githubusercontent.com/SEU_USUARIO/REPO/main/imgs/ipadair.png",
+    "buy_link": "https://meusite.com/checkout?produto=ipadair"
+  },
+  {
+    "id": "Max1",
+    "category": "Mac",
+    "name": "MacBook Air",
+    "price": 8999,
+    "status": "available",
+    "plan": "12x sem juros",
+    "banner": "https://raw.githubusercontent.com/SEU_USUARIO/REPO/main/imgs/macbook.png",
+    "buy_link": "https://meusite.com/checkout?produto=Max1"
+  },
+  {
+    "id": "Acesspri1",
+    "category": "Acessórios",
+    "name": "AirPods Pro",
+    "price": 1999,
+    "status": "available",
+    "plan": "6x sem juros",
+    "banner": "https://raw.githubusercontent.com/SEU_USUARIO/REPO/main/imgs/airpods.png",
+    "buy_link": "https://meusite.com/checkout?produto=Acesspri1"
+  }
+]
